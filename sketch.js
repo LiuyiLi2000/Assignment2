@@ -42,10 +42,15 @@ function draw() {
 
   allowMessage = false;
 
- } else if (occupancy > 1) {
+ } else if (occupancy =1) {
 
   background(255);
-  text("Someone entered the chat", windowWidth/1.2, windowHeight/1.2);
+  text("Someone entered the chat", windowWidth/1.2, windowHeight/2);
+
+ }else if (occupancy =2) {
+
+    background(255);
+    text("Second one entered the chat", windowWidth/1.2, windowHeight/2);
 
   
  } else {
