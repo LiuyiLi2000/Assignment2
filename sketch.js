@@ -52,11 +52,7 @@ function draw() {
     background(255);
     text("Second one entered the chat", windowWidth/1.2, windowHeight/2);
 
-  
- } else {
-  background(255);
-  text("wait for someone", windowWidth/2, windowHeight/2); 
-  allowmessage = false;
+ 
 
   }
 }
