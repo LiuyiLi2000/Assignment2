@@ -37,7 +37,7 @@ function draw() {
 
   if (occupancy = 10) {
     background(255);
-    text("We got 10 people!", 800,1000);
+    text("We got 10 people!", 800,760);
     textSize(25);
     textFont('Times New Roman');
   
@@ -45,86 +45,86 @@ function draw() {
 
  } if (occupancy =1) {
   background(255);
-  text("Did someone entered the chat?", 800, 1000);
+  text("Did someone entered the chat?", 800, 760);
 
  }else if (occupancy =2) {
 
     background(255);
-    text("Oh now the second one entered the chat!", 800, 1000);
+    text("Oh now the second one entered the chat!", 800, 760);
 
   }else if (occupancy =3) {
 
     background(255);
-    text("The third one entered the chat!", 800, 1000);
+    text("The third one entered the chat!", 800, 760);
   }else if (occupancy =4) {
 
     background(255);
-    text("The forth one entered the chat!", 800, 1000);
+    text("The forth one entered the chat!", 800, 760);
   }else if (occupancy =5) {
 
     background(255);
-    text("The fifth one entered the chat!", 800, 1000);
+    text("The fifth one entered the chat!", 800, 760);
   }else if (occupancy =6) {
 
     background(255);
-    text("The sixth one entered the chat!", 800, 1000);
+    text("The sixth one entered the chat!", 800, 760);
   }else if (occupancy =7) {
 
     background(255);
-    text("The seventh one entered the chat!", 800, 1000);
+    text("The seventh one entered the chat!", 800, 760);
   }else if (occupancy =8) {
 
     background(255);
-    text("The eighth one entered the chat!", 800, 1000);
+    text("The eighth one entered the chat!", 800, 760);
   }else if (occupancy =9) {
 
     background(255);
-    text("The nineth one entered the chat!", 800, 1000); 
+    text("The nineth one entered the chat!", 800, 760); 
   }else if (occupancy =11) {
 
     background(255);
-    text("The eleventh one entered the chat!", 800, 1000);
+    text("The eleventh one entered the chat!", 800, 760);
   }else if (occupancy =12) {
 
     background(255);
-    text("The twelfth one entered the chat!", 800, 1000);
+    text("The twelfth one entered the chat!", 800, 760);
   }else if (occupancy =13) {
 
     background(255);
-    text("The thirteenth one entered the chat!", 800, 1000);
+    text("The thirteenth one entered the chat!", 800, 760);
   }else if (occupancy =14) {
 
     background(255);
-    text("The forteenth one entered the chat!", 800, 1000);
+    text("The forteenth one entered the chat!", 800, 760);
   }else if (occupancy =15) {
 
     background(255);
-    text("The fifteenth one entered the chat!", 800, 1000);
+    text("The fifteenth one entered the chat!", 800, 760);
   }else if (occupancy =16) {
 
     background(255);
-    text("The sixteenth one entered the chat!", 800, 1000);
+    text("The sixteenth one entered the chat!", 800, 760);
   }else if (occupancy =17) {
 
     background(255);
-    text("The seventeenth one entered the chat!", 800, 1000);
+    text("The seventeenth one entered the chat!", 800, 760);
   }else if (occupancy =18) {
 
     background(255);
-    text("The eighteenth one entered the chat!", 800, 1000);
+    text("The eighteenth one entered the chat!", 800, 760);
   }else if (occupancy =19) {
 
     background(255);
-    text("The nineteenth one entered the chat!", 800, 1000);
+    text("The nineteenth one entered the chat!", 800, 760);
   }else if (occupancy =20) {
 
     background(255);
-    text("The twentyth one entered the chat!", 800, 1000);
+    text("The twentyth one entered the chat!", 800, 760);
 
   
  } else if (occupancy =0){
   background(255);
-  text("waiting for someone...", 800, 900); 
+  text("waiting for someone...", 800, 760); 
   allowmessage = false;
 
   }
